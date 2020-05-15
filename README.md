@@ -1,2 +1,2 @@
-# fadding-fixed-gradient
+# Fadding Fixed Gradient
 GitHub Pages
